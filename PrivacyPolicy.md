@@ -11,4 +11,4 @@ We collect 3 information pieces:
 3. Your score: After a game, you'll get a score that defines how well you've played the game.
                This info will be collected, saved and shared with other users. 
 
-All of this information will be saved on a server. You can delete all 3 information pieces using this guide: https://github.com/xSutai/ninja_jump/blob/main/README.md
+All of this information will be saved on a server. You can delete all 3 information pieces using this guide: https://github.com/xSutai/ninja_jump/blob/main/ExtraExplanation.md
