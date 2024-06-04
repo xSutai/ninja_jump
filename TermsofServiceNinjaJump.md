@@ -21,6 +21,6 @@ If you found a way to cheat or enhance your score in any way, don't abuse this!
 Instead, you may send an email to the address below with a description of the bug or any other feedback you might have, thanks!
 sutai.software@gmail.com
 
-## Consequence by not following the rules above
+## Consequence of not following the rules above
 **If you do any of the abovementioned things, you will be banned from the online leaderboard.**
 You are still free to play offline of course!
