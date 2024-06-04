@@ -12,4 +12,3 @@ We collect 3 information pieces:
                This info will be collected, saved and shared with other users. 
 
 All of this information will be saved on a server. You can delete all 3 information pieces using this guide: https://github.com/xSutai/ninja_jump/blob/main/README.md
-
