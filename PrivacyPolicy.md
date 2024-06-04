@@ -1,5 +1,7 @@
 # Privacy Policy Ninja Jump
 
+**By playing the game, you have read and agreed to this Privacy Policy and the Terms of Service listed here:** https://github.com/xSutai/ninja_jump/blob/main/TermsofServiceNinjaJump.md
+
 ## Data Collection
 
 **If you log in to the game with your Unity account, then and only then will we collect/share 3 different pieces of information summed up below.**
