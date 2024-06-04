@@ -10,6 +10,6 @@
 ## How do I play offline without sending my score to the online leaderboard?
 1. Open the Ninja Jump app.
 2. In the top right corner, click on the wifi logo.
-  3.1. If you are logged in, you'll see a logout button. Press this button.
-  3.2. If you don't see the logout button, you are not logged in.
-4. Now press the "Done" button and you are ready to play offline.
+3. If you are logged in, you'll see a logout button. Press this button.
+4. If you don't see the logout button, you are not logged in.
+5. Now press the "Done" button and you are ready to play offline.
