@@ -1,6 +1,6 @@
 # Privacy Policy Ninja Jump
 
-**By playing the game, you have read and agreed to this Privacy Policy and the Terms of Service listed here:** https://github.com/xSutai/ninja_jump/blob/main/TermsofServiceNinjaJump.md
+**By playing the game, you have read and agreed to this [Privacy Policy](PrivacyPolicy.md) and the [Terms of Service](TermsofServiceNinjaJump.md)**
 
 ## Data Collection
 
