@@ -8,7 +8,7 @@
 4. Run the "Ninja Jump.exe" file.
 5. The game should start running.
 
-If you encounter any issues with this, please email sutai.software@gmail.com with the subject: "Trouble with installing the game".
+If you encounter any issues with this, please email sutai.software@gmail.com with the subject: "Trouble with installing Ninja Jump.".
 
 
 ## How do I delete my username from the online leaderboard?
