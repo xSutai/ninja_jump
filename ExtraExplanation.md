@@ -1,4 +1,4 @@
-# ninja_jump
+# Ninja Jump
 
 ## How do I delete my username from the online leaderboard?
 1. Open the Ninja Jump app.
